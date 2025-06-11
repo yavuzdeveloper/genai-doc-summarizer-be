@@ -1,0 +1,24 @@
+# Virtual (venv)
+venv/
+ENV/
+env/
+
+# Pycache 
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE 
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
+*.tmp
+
+# Token
+.env
